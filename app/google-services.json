@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "103201094883",
+    "firebase_url": "https://sorathiya-blood-donors-a2409.firebaseio.com",
+    "project_id": "sorathiya-blood-donors-a2409",
+    "storage_bucket": "sorathiya-blood-donors-a2409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103201094883:android:74a17babfa07ece9",
+        "android_client_info": {
+          "package_name": "com.app.sorathiya.blooddonors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103201094883-0sg67mrdbaluqbdm5ednaea6jaf9c563.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB_IWMllQej-3xMmoohqXBQ74HcQ3S3Y0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

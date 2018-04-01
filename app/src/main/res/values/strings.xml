@@ -1,0 +1,46 @@
+<resources>
+
+    <string name="app_name">Sorathiya Blood Donors</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_donor_name">Donor Name</string>
+    <string name="txt_blood_group">Blood group</string>
+    <string name="hint_contact">Contact Number</string>
+    <string name="hint_email">Email Id</string>
+    <string name="hint_address">Address</string>
+    <string name="empty_donor_name">Donor name is required</string>
+    <string name="empty_blood_group">Select blood group</string>
+    <string name="empty_contact">Contact number is required</string>
+    <string name="invalid_contact">Enter valid mobile number.</string>
+    <string name="empty_email">Email is required</string>
+    <string name="empty_address">Address is required</string>
+    <string name="invalid_email">Enter valid Email.</string>
+    <string name="register">Register</string>
+    <string name="about_us_content">This app is gift to society from <b>SHREE SORATHIYA AHIR SAMAJ</b>.It contains list of voluntary blood donors.You can upload your blood group to join us.Every day blood transfusions take place that saves lives of many people all over the world.Donating blood can help in treating patients suffering from cancer, bleeding disorders, chronic anemia associated with cancer, sickle cell anemia and other hereditary blood abnormalities.  One has to wait for 56 days or 8 weeks between whole blood donations. The waiting period is 112 days or 16 weeks between power red donations. Avoid donation if you’re suffering from any disorders, and consult your doctor before doing it.</string>
+    <string name="hint_name">Name</string>
+    <string name="send_message">Send Message</string>
+    <string name="hint_message">Message</string>
+    <string name="contact_us_text"><b>Contact us:</b>\n\n</string>
+    <string name="contact_person">Sanjay Shantilal Gudrasaniya\n</string>
+    <string name="contact_email">sorathiyablooddonors@gmail.com\n</string>
+    <string name="contact_person_number">9726401129</string>
+    <string name="empty_name">Enter your name</string>
+    <string name="empty_message">Enter message to send</string>
+    <string name="str_president">પ્રમુખ શ્રી:\nપ્રેમજીભાઈ રાજાભાઈ પેડવા\n9825019699</string>
+    <string name="str_secretary">મંત્રી શ્રી:\nઘનશ્યામ રામજીભાઈ પેડવા\n9429199886</string>
+    <string name="str_chair_man">ચેરમેન શ્રી:\nસંજય શાંતિલાલ ગુદરાસણીયા\n9726401129</string>
+    <string name="str_contact_person_about_us"><b>Contact Person:</b> Sanjay Shantilal Gudrasaniya</string>
+    <string name="contact_number_about_us"><b>Contact Number: </b> 9726401129</string>
+    <string name="trust_name">શ્રી યદુવંશી સોરઠીયા આહિર જ્ઞાતિ યુવક મંડળ - અંજાર\nટ્રસ્ટ રજી નં - એ 434</string>
+    <string name="invalid_name">Enter valid name</string>
+</resources>
